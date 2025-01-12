@@ -82,7 +82,7 @@ body, html {
 
 button {
     width: 119px;
-    background-color: lightgrey;
+    background-color: brown;
     border: none;
     color: black;
     padding: 15px 36px;
@@ -97,7 +97,7 @@ button {
 
 button.operator {
     width: 119px;
-    background-color: orange;
+    background-color: beige;
     border: none;
     color: black;
     padding: 15px 36px;
@@ -112,7 +112,7 @@ button.operator {
 
 button.equalSign {
     width: 119px;
-    background-color: orange;
+    background-color: beige;
     border: none;
     color: black;
     padding: 15px 36px;
@@ -142,7 +142,7 @@ button.other {
 }
 
 button:active {
-    background-color: rgb(198, 198, 198);
+    background-color: rgb(169, 149, 123);
     color: whitesmoke;
     padding: 15px 36px;
     text-align: center;
@@ -155,7 +155,7 @@ button:active {
 }
 
 button.operator:active {
-    background-color: rgb(182, 122, 10);
+    background-color: rgb(169, 149, 123);
     color: whitesmoke;
     padding: 15px 36px;
     text-align: center;
@@ -168,7 +168,7 @@ button.operator:active {
 }
 
 button.equalSign:active {
-    background-color: rgb(182, 122, 10);
+    background-color: rgb(169, 149, 123);
     color: whitesmoke;
     padding: 15px 36px;
     text-align: center;
@@ -184,7 +184,7 @@ button.equalSign:active {
 
 .item17 {
     width: 243px;
-    background-color: lightgrey;
+    background-color: brown;
     color: black;
     padding: 15px 36px;
     text-align: center;
@@ -198,7 +198,7 @@ button.equalSign:active {
 }
 
 button:active {
-    background-color: grey;
+    background-color: brown;
     color: whitesmoke;
     padding: 15px 36px;
     text-align: center;
